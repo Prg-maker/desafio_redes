@@ -83,4 +83,4 @@ Por outro lado, quando o valor de **`redshift`** é **menor que 1**, há maior p
 #### 🔸 Após plotar o gráfico da função de perda, percebi que o loss estava convergindo corretamente para um valor estável. Realizei também a análise do backpropagation e confirmei que o modelo estava de fato convergindo.
 #### 🔸 Testei algumas variações, como o aumento do número de camadas, mas essas mudanças não impactaram significativamente a acurácia final.
 ---
-## Conclusao:  Vi que o terceiro modelo se saiu melhor que todos, explorei outros nives de camadas, vi que os numeros de camdas nao siginifcas um bom resultado e nem se aumentar os niveis de neuronios aumenta a qualidade do modelo. 
+#### Conclusao:  Vi que o terceiro modelo se saiu melhor que todos, explorei outros nives de camadas, vi que os numeros de camdas nao siginifcas um bom resultado e nem se aumentar os niveis de neuronios aumenta a qualidade do modelo. 
